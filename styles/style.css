@@ -364,6 +364,8 @@
 .footer__column_content_hours {
   background-color: #1f1f1f;
   color: #fff;
+  margin-left: auto;
+  margin-right: 0%;
 }
 
 .footer__column_content_social {
@@ -377,8 +379,6 @@
   color: #fff;
   height: 80px;
   width: 58px;
-  margin-right: auto;
-  margin-left: 0%;
 }
 
 .footer__column-heading {
