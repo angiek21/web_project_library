@@ -349,6 +349,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
+  color: #fff;
   padding: 60px 80px;
 }
 
@@ -386,6 +387,7 @@
   color: #fff;
   margin-bottom: 20px;
   margin-top: 0%;
+  font-size: 20px;
 }
 
 .footer__list {
@@ -396,18 +398,18 @@
 
 .footer__list-item {
   margin-bottom: 16px;
-  margin-right: 10px;
-  margin-top: 0%;
 }
 
 .footer__column-link {
   color: white;
   text-decoration: none;
+  column-gap: 10px;
+  align-items: normal;
 }
 
 .footer__social-icon {
-  margin-right: 10px;
-  margin-left: 0%;
+  height: 16px;
+  width: 16px;
 }
 
 .footer__copyright {
